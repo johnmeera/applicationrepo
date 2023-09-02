@@ -7,6 +7,6 @@ variable "mybucketname" {
 variable "myname" {
   description = "bucket name my wish"
   type        = string
-  default     = 
+  default     = "private"
 
 }
